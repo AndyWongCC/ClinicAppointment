@@ -1,6 +1,6 @@
 ### ClinicAppointment
 
-#####User can make the appointment or creating patient and doctor by the according input value.
+##### User can make the appointment or creating patient and doctor by the according input value.
 - 1. Create Patient
 - 2. Create Doctor
 - 3. List out patients
